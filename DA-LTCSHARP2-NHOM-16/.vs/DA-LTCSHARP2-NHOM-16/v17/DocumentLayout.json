@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{55D7B4BB-3AEF-4AA9-A941-718E0F47DC91}|DA-LTCSHARP2-NHOM-16\\GUI.csproj|c:\\users\\hk-2203\\project\\da-ltcsharp2-nhom-16\\da-ltcsharp2-nhom-16\\da-ltcsharp2-nhom-16\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{55D7B4BB-3AEF-4AA9-A941-718E0F47DC91}|DA-LTCSHARP2-NHOM-16\\GUI.csproj|solutionrelative:da-ltcsharp2-nhom-16\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{CFE77993-08FF-4148-A837-E625DB736580}|GUI\\GUI.csproj|c:\\users\\hk-2203\\project\\da-ltcsharp2-nhom-16\\da-ltcsharp2-nhom-16\\gui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{CFE77993-08FF-4148-A837-E625DB736580}|GUI\\GUI.csproj|solutionrelative:gui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,12 +20,12 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "FormMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\FormMain.cs",
-              "RelativeDocumentMoniker": "DA-LTCSHARP2-NHOM-16\\FormMain.cs",
-              "ToolTip": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\FormMain.cs [Design]",
-              "RelativeToolTip": "DA-LTCSHARP2-NHOM-16\\FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\GUI\\FormMain.cs",
+              "RelativeDocumentMoniker": "GUI\\FormMain.cs",
+              "ToolTip": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\GUI\\FormMain.cs [Design]",
+              "RelativeToolTip": "GUI\\FormMain.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T16:21:38.682Z",
+              "WhenOpened": "2024-09-19T16:30:22.166Z",
               "EditorCaption": " [Design]"
             }
           ]
