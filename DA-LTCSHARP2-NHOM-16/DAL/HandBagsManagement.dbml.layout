@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 11, 10.375" name="HandBagsManagement">
+  <DataContextMoniker Name="/HandBagsManagementDataContext" />
+  <nestedChildShapes>
+    <classShape Id="58c6f811-f28a-4a2c-9d10-799d27688ec3" absoluteBounds="0.75, 8.875, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/HandBagsManagementDataContext/DM_ManHinh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="3656b87c-6922-4ea8-b5d0-84e7450e89b3" absoluteBounds="0.765, 9.335, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="9dc8b88c-49a5-4881-a306-85eec135e645" absoluteBounds="3.5, 3.75, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/HandBagsManagementDataContext/QL_PhanQuyen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="1a3340d9-10b0-480b-b911-b5c08e63ce58" absoluteBounds="3.515, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e945d8c2-1ae6-4b64-86ed-275cfed2848c" absoluteBounds="0.75, 6.5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/HandBagsManagementDataContext/QL_NguoiDung" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7937e090-f0b0-4c7b-8aa3-0f3ce69c998d" absoluteBounds="0.765, 6.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="32f485d4-b185-4b81-9147-5a61fd8b1a4d" absoluteBounds="3.5, 0.75, 2, 1.3862939453125">
+      <DataClassMoniker Name="/HandBagsManagementDataContext/QL_NguoiDungNhomNguoiDung" />
+      <nestedChildShapes>
+        <elementListCompartment Id="efee55b0-0edb-473e-b4cf-7a5e50d6c725" absoluteBounds="3.515, 1.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="f0b03ec0-8bbc-4c0b-ba01-3134d115d3dd" absoluteBounds="0.75, 3.75, 2, 1.3862939453124996">
+      <DataClassMoniker Name="/HandBagsManagementDataContext/QL_NhomNguoiDung" />
+      <nestedChildShapes>
+        <elementListCompartment Id="317f4801-063b-4294-aedb-1ce2007d8460" absoluteBounds="0.765, 4.21, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(2.75 : 9.47199625651042); (4.5 : 9.47199625651042); (4.5 : 5.1362939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandBagsManagementDataContext/DM_ManHinh/DM_ManHinh_QL_PhanQuyen" />
+      <nodes>
+        <classShapeMoniker Id="58c6f811-f28a-4a2c-9d10-799d27688ec3" />
+        <classShapeMoniker Id="9dc8b88c-49a5-4881-a306-85eec135e645" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 6.5); (3.125 : 6.125); (3.125 : 1.44314697265625); (3.5 : 1.44314697265625)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandBagsManagementDataContext/QL_NguoiDung/QL_NguoiDung_QL_NguoiDungNhomNguoiDung" />
+      <nodes>
+        <classShapeMoniker Id="e945d8c2-1ae6-4b64-86ed-275cfed2848c" />
+        <classShapeMoniker Id="32f485d4-b185-4b81-9147-5a61fd8b1a4d" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 4.44314697265625); (3.04166666666667 : 4.44314697265625 : JumpStart); (3.20833333333333 : 4.44314697265625 : JumpEnd); (3.5 : 4.44314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandBagsManagementDataContext/QL_NhomNguoiDung/QL_NhomNguoiDung_QL_PhanQuyen" />
+      <nodes>
+        <classShapeMoniker Id="f0b03ec0-8bbc-4c0b-ba01-3134d115d3dd" />
+        <classShapeMoniker Id="9dc8b88c-49a5-4881-a306-85eec135e645" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(1.75 : 3.75); (1.75 : 1.82097295898437); (3.04166666666667 : 1.82097295898437 : JumpStart); (3.20833333333333 : 1.82097295898437 : JumpEnd); (3.5 : 1.82097295898437)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandBagsManagementDataContext/QL_NhomNguoiDung/QL_NhomNguoiDung_QL_NguoiDungNhomNguoiDung" />
+      <nodes>
+        <classShapeMoniker Id="f0b03ec0-8bbc-4c0b-ba01-3134d115d3dd" />
+        <classShapeMoniker Id="32f485d4-b185-4b81-9147-5a61fd8b1a4d" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFE77993-08FF-4148-A837-E625DB736580}|GUI\\GUI.csproj|c:\\users\\hk-2203\\project\\da-ltcsharp2-nhom-16\\da-ltcsharp2-nhom-16\\gui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{CFE77993-08FF-4148-A837-E625DB736580}|GUI\\GUI.csproj|solutionrelative:gui\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{27A7A9F5-1A17-47A7-92E7-AA57E53B50E4}|DA-LTCSHARP2-NHOM-16\\GUI.csproj|c:\\users\\hk-2203\\project\\da-ltcsharp2-nhom-16\\da-ltcsharp2-nhom-16\\da-ltcsharp2-nhom-16\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A7A9F5-1A17-47A7-92E7-AA57E53B50E4}|DA-LTCSHARP2-NHOM-16\\GUI.csproj|solutionrelative:da-ltcsharp2-nhom-16\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A7A9F5-1A17-47A7-92E7-AA57E53B50E4}|DA-LTCSHARP2-NHOM-16\\GUI.csproj|c:\\users\\hk-2203\\project\\da-ltcsharp2-nhom-16\\da-ltcsharp2-nhom-16\\da-ltcsharp2-nhom-16\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{27A7A9F5-1A17-47A7-92E7-AA57E53B50E4}|DA-LTCSHARP2-NHOM-16\\GUI.csproj|solutionrelative:da-ltcsharp2-nhom-16\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A7A9F5-1A17-47A7-92E7-AA57E53B50E4}|DA-LTCSHARP2-NHOM-16\\GUI.csproj|c:\\users\\hk-2203\\project\\da-ltcsharp2-nhom-16\\da-ltcsharp2-nhom-16\\da-ltcsharp2-nhom-16\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{27A7A9F5-1A17-47A7-92E7-AA57E53B50E4}|DA-LTCSHARP2-NHOM-16\\GUI.csproj|solutionrelative:da-ltcsharp2-nhom-16\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B55CDE8C-3AB0-4CF1-9E16-E3EAF345529D}|DAL\\DAL.csproj|c:\\users\\hk-2203\\project\\da-ltcsharp2-nhom-16\\da-ltcsharp2-nhom-16\\dal\\handbagsmanagement.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|",
+      "RelativeMoniker": "D:0:0:{B55CDE8C-3AB0-4CF1-9E16-E3EAF345529D}|DAL\\DAL.csproj|solutionrelative:dal\\handbagsmanagement.dbml||{B465B5AD-8799-4507-B90A-EE29ACF36AF9}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A7A9F5-1A17-47A7-92E7-AA57E53B50E4}|DA-LTCSHARP2-NHOM-16\\GUI.csproj|c:\\users\\hk-2203\\project\\da-ltcsharp2-nhom-16\\da-ltcsharp2-nhom-16\\da-ltcsharp2-nhom-16\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A7A9F5-1A17-47A7-92E7-AA57E53B50E4}|DA-LTCSHARP2-NHOM-16\\GUI.csproj|solutionrelative:da-ltcsharp2-nhom-16\\frmlogin.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27A7A9F5-1A17-47A7-92E7-AA57E53B50E4}|DA-LTCSHARP2-NHOM-16\\GUI.csproj|C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\da-ltcsharp2-nhom-16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27A7A9F5-1A17-47A7-92E7-AA57E53B50E4}|DA-LTCSHARP2-NHOM-16\\GUI.csproj|solutionrelative:da-ltcsharp2-nhom-16\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,19 +34,87 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\App.config",
+              "RelativeDocumentMoniker": "DA-LTCSHARP2-NHOM-16\\App.config",
+              "ToolTip": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\App.config",
+              "RelativeToolTip": "DA-LTCSHARP2-NHOM-16\\App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-10-06T08:18:43.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmLogin.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\frmLogin.Designer.cs",
+              "RelativeDocumentMoniker": "DA-LTCSHARP2-NHOM-16\\frmLogin.Designer.cs",
+              "ToolTip": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\frmLogin.Designer.cs",
+              "RelativeToolTip": "DA-LTCSHARP2-NHOM-16\\frmLogin.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T10:41:45.314Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "FormMain.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\GUI\\FormMain.cs",
-              "RelativeDocumentMoniker": "GUI\\FormMain.cs",
-              "ToolTip": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\GUI\\FormMain.cs [Design]",
-              "RelativeToolTip": "GUI\\FormMain.cs [Design]",
+              "Title": "frmLogin.cs",
+              "DocumentMoniker": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\frmLogin.cs",
+              "RelativeDocumentMoniker": "DA-LTCSHARP2-NHOM-16\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\frmLogin.cs",
+              "RelativeToolTip": "DA-LTCSHARP2-NHOM-16\\frmLogin.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAlwFwAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T16:30:22.166Z",
+              "WhenOpened": "2024-10-04T04:11:17.138Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\frmLogin.cs",
+              "RelativeDocumentMoniker": "DA-LTCSHARP2-NHOM-16\\frmLogin.cs",
+              "ToolTip": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\frmLogin.cs [Design]",
+              "RelativeToolTip": "DA-LTCSHARP2-NHOM-16\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T03:47:56.842Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HandBagsManagement.dbml",
+              "DocumentMoniker": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DAL\\HandBagsManagement.dbml",
+              "RelativeDocumentMoniker": "DAL\\HandBagsManagement.dbml",
+              "ToolTip": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DAL\\HandBagsManagement.dbml",
+              "RelativeToolTip": "DAL\\HandBagsManagement.dbml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001722|",
+              "WhenOpened": "2024-10-06T06:44:44.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\Program.cs",
+              "RelativeDocumentMoniker": "DA-LTCSHARP2-NHOM-16\\Program.cs",
+              "ToolTip": "C:\\Users\\HK-2203\\Project\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\DA-LTCSHARP2-NHOM-16\\Program.cs",
+              "RelativeToolTip": "DA-LTCSHARP2-NHOM-16\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T04:38:21.429Z",
+              "EditorCaption": ""
             }
           ]
         }
