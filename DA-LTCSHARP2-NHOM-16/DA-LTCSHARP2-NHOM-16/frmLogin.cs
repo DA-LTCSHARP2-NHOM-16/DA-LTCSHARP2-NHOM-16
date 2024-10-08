@@ -11,11 +11,14 @@ using System.Windows.Forms;
 using Bunifu;
 using Bunifu.UI.WinForms;
 using static System.Windows.Forms.VisualStyles.VisualStyleElement;
+using DAL;
+using BLL;
 
 namespace DA_LTCSHARP2_NHOM_16
 {
     public partial class frmLogin : Form
     {
+        UserBLL userBLL = new UserBLL();
         Image[] statusPassword = new Image[] { Resource.HidePassword, Resource.ShowPassword };
         bool showPassword = false;
         private readonly BunifuSnackbar snackbar = new BunifuSnackbar();
@@ -89,12 +92,24 @@ namespace DA_LTCSHARP2_NHOM_16
             {
                 errorUsername.Visible = true;
                 txtUsername.BorderColorIdle = Color.IndianRed;
+                return;
             }
             if (string.IsNullOrWhiteSpace(txtPassword.Text))
             {
                 errrorPassword.Visible = true;
                 txtPassword.BorderColorIdle = Color.IndianRed;
+                return;
             }
+            var user = userBLL.Login(txtUsername.Text, txtPassword.Text);  
+            if(user != null)
+            {
+                frmMain frmMain = new frmMain();
+                frmMain.user = user;
+                this.Hide();
+                frmMain.Show();
+                return;
+            }
+            snackbar.Show(this, "Tên đăng nhập hoặc mật khẩu chưa chính xác!", BunifuSnackbar.MessageTypes.Error);
         }
 
         private void bunifuPictureBox1_MouseHover(object sender, EventArgs e)
