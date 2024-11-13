@@ -8,11 +8,12 @@ namespace DAL
 {
     public class UserDAL
     {
-        HandBagsManagementDataContext db = new HandBagsManagementDataContext();
-        public QL_NguoiDung Login(string username, string password)
+        HandbagStoreManagementDataContext db = new HandbagStoreManagementDataContext();
+        public NguoiDung Login(string username, string password)
         {
-            return (from user in db.QL_NguoiDungs where user.TenDangNhap == username
-                    && user.MatKhau == password && user.HoatDong == 1 select user).FirstOrDefault();
+            return (from user in db.NguoiDungs where user.TenND == username
+                    && user.MatKhau == password && user.HoatDong == true select user).FirstOrDefault();
         }
+
     }
 }

@@ -1,0 +1,214 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ordesignerObjectsDiagram dslVersion="1.0.0.0" absoluteBounds="0, 0, 13.75, 16.875" name="HandbagStoreManagement">
+  <DataContextMoniker Name="/HandbagStoreManagementDataContext" />
+  <nestedChildShapes>
+    <classShape Id="6719f0d6-9e02-4751-a1cf-dc49e361e9e3" absoluteBounds="6.25, 7.625, 2, 1.9631982421875005">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/ChiTietHD" />
+      <nestedChildShapes>
+        <elementListCompartment Id="baf61781-a0a7-4158-bffd-4e14fa4bd17c" absoluteBounds="6.265, 8.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="df1859f9-f2cc-49f5-adf6-54569f08f505" absoluteBounds="0.75, 2, 2, 1.3862939453125">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/ThuongHieu" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6bda752d-692a-4a66-b8e3-93cfded96625" absoluteBounds="0.765, 2.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="c99b38b7-b21d-43e0-b187-5b2313828f5b" absoluteBounds="6.25, 5, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/ChiTietKM" />
+      <nestedChildShapes>
+        <elementListCompartment Id="aafb089c-9d4b-4717-bafd-6c3cfa3b43bd" absoluteBounds="6.265, 5.46, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="19b33a4f-68b9-4019-97b8-9a531b4e4d9e" absoluteBounds="6.25, 1.75, 2, 1.7708968098958326">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/ChiTietPNH" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e9b7f90f-dfd5-4bf8-8647-450abc9b524a" absoluteBounds="6.265, 2.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="84cd0014-99da-47ec-8dbb-6e8f98288faa" absoluteBounds="8.75, 11.375, 2, 1.1939925130208344">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/DM_ManHinh" />
+      <nestedChildShapes>
+        <elementListCompartment Id="ba632ce7-41aa-437b-80a8-127d0fbfae55" absoluteBounds="8.765, 11.835, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="512ed352-8dec-41b6-87b2-c5da9063f5a6" absoluteBounds="3.5, 14.75, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/HoaDon" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8976201c-46e7-46d5-8d30-bf0b91671331" absoluteBounds="3.515, 15.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="44560691-bb23-471e-97af-3d56e11b9d71" absoluteBounds="0.75, 14.625, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/KhachHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="7cb8cfe4-9965-4991-a57c-772e5a4f3f01" absoluteBounds="0.765, 15.085, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="0c3e2467-44f6-4cf6-a37f-ad59ede04315" absoluteBounds="3.5, 0.75, 2, 1.7708968098958331">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/KhuyenMai" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e65157fc-7c19-4a46-b86f-277e9e3da2a3" absoluteBounds="3.515, 1.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="6f540e10-bb97-4343-b121-016ff74fe00c" absoluteBounds="0.75, 5, 2, 1.1939925130208326">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/LoaiSanPham" />
+      <nestedChildShapes>
+        <elementListCompartment Id="25078aa1-6fff-4137-84fa-2b0382569fab" absoluteBounds="0.765, 5.46, 1.9700000000000002, 0.63399251302083326" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="d5f75edc-365e-41a5-b747-088eba4b2ce7" absoluteBounds="0.75, 10.875, 2, 2.1554996744791666">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/NguoiDung" />
+      <nestedChildShapes>
+        <elementListCompartment Id="6c1d224d-f445-4307-84e9-7658b260df8d" absoluteBounds="0.765, 11.335, 1.9700000000000002, 1.5954996744791665" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e98c0da1-ce60-47d7-846c-7d003c0fb483" absoluteBounds="11.5, 7.5, 2, 1.3862939453125014">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/NguoiDung_NhomNguoiDung" />
+      <nestedChildShapes>
+        <elementListCompartment Id="0d1a2b9e-67fd-4fa5-9acd-6a24b44503ec" absoluteBounds="11.515, 7.96, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="48782a3c-9d07-4b0a-b88e-51182014c973" absoluteBounds="0.75, 8.125, 2, 1.9631982421874987">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/NhaCungCap" />
+      <nestedChildShapes>
+        <elementListCompartment Id="490cceee-6f3f-4c93-8271-e59be2f456d2" absoluteBounds="0.765, 8.585, 1.9700000000000002, 1.4031982421875" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="e8933c98-b05d-4fd1-9ce6-d88cc006fcfd" absoluteBounds="8.75, 3.25, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/NhomNguoiDung" />
+      <nestedChildShapes>
+        <elementListCompartment Id="8edcb74c-ecc8-4c34-9630-fb457b43e09c" absoluteBounds="8.765, 3.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="fd0888d9-33c2-4527-bd31-8443f78efa68" absoluteBounds="11.5, 3.25, 2, 1.3862939453125005">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/PhanQuyen" />
+      <nestedChildShapes>
+        <elementListCompartment Id="e1de8fa6-2507-4fa6-b8a1-1b1df34f318c" absoluteBounds="11.515, 3.71, 1.9700000000000002, 0.8262939453125" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="7a84462f-538a-4952-9af3-0c2df580b8c4" absoluteBounds="3.5, 9.75, 2, 1.7708968098958344">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/PhieuNhapHang" />
+      <nestedChildShapes>
+        <elementListCompartment Id="41472661-0b44-4f06-bff0-98e37f9d034f" absoluteBounds="3.515, 10.21, 1.9700000000000002, 1.2108968098958333" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <classShape Id="dffec778-019f-4154-8257-716d379f574b" absoluteBounds="3.5, 4.125, 2, 2.9247054036458326">
+      <DataClassMoniker Name="/HandbagStoreManagementDataContext/SanPham" />
+      <nestedChildShapes>
+        <elementListCompartment Id="64a66622-0dae-4e0d-b81b-49cbd0974808" absoluteBounds="3.515, 4.585, 1.9700000000000002, 2.364705403645833" name="DataPropertiesCompartment" titleTextColor="Black" itemTextColor="Black" />
+      </nestedChildShapes>
+    </classShape>
+    <associationConnector edgePoints="[(5.5 : 15.6354484049479); (7.25 : 15.6354484049479); (7.25 : 9.5881982421875)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/HoaDon/HoaDon_ChiTietHD" />
+      <nodes>
+        <classShapeMoniker Id="512ed352-8dec-41b6-87b2-c5da9063f5a6" />
+        <classShapeMoniker Id="6719f0d6-9e02-4751-a1cf-dc49e361e9e3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 15.6354484049479); (3.5 : 15.6354484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/KhachHang/KhachHang_HoaDon" />
+      <nodes>
+        <classShapeMoniker Id="44560691-bb23-471e-97af-3d56e11b9d71" />
+        <classShapeMoniker Id="512ed352-8dec-41b6-87b2-c5da9063f5a6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 2.52089680989583); (5.875 : 2.89589680989583); (5.875 : 5.69314697265625); (5.97916666666667 : 5.69314697265625 : JumpStart); (6.14583333333333 : 5.69314697265625 : JumpEnd); (6.25 : 5.69314697265625)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/KhuyenMai/KhuyenMai_ChiTietKM" />
+      <nodes>
+        <classShapeMoniker Id="0c3e2467-44f6-4cf6-a37f-ad59ede04315" />
+        <classShapeMoniker Id="c99b38b7-b21d-43e0-b187-5b2313828f5b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 13.0304996744792); (3.125 : 13.4054996744792); (3.125 : 15.161472202474); (3.5 : 15.161472202474)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/NguoiDung/NguoiDung_HoaDon" />
+      <nodes>
+        <classShapeMoniker Id="d5f75edc-365e-41a5-b747-088eba4b2ce7" />
+        <classShapeMoniker Id="512ed352-8dec-41b6-87b2-c5da9063f5a6" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 12.79974359375); (7.16666666666667 : 12.79974359375 : JumpStart); (7.33333333333333 : 12.79974359375 : JumpEnd); (12.5 : 12.79974359375); (12.5 : 8.8862939453125)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/NguoiDung/NguoiDung_NguoiDung_NhomNguoiDung" />
+      <nodes>
+        <classShapeMoniker Id="d5f75edc-365e-41a5-b747-088eba4b2ce7" />
+        <classShapeMoniker Id="e98c0da1-ce60-47d7-846c-7d003c0fb483" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(9.75 : 4.6362939453125); (9.75 : 8.19314697265625); (11.0416666666667 : 8.19314697265625 : JumpStart); (11.2083333333333 : 8.19314697265625 : JumpEnd); (11.5 : 8.19314697265625)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/NhomNguoiDung/NhomNguoiDung_NguoiDung_NhomNguoiDung" />
+      <nodes>
+        <classShapeMoniker Id="e8933c98-b05d-4fd1-9ce6-d88cc006fcfd" />
+        <classShapeMoniker Id="e98c0da1-ce60-47d7-846c-7d003c0fb483" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.75 : 11.375); (11.125 : 11); (11.125 : 3.94314697265625); (11.5 : 3.94314697265625)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/DM_ManHinh/DM_ManHinh_PhanQuyen" />
+      <nodes>
+        <classShapeMoniker Id="84cd0014-99da-47ec-8dbb-6e8f98288faa" />
+        <classShapeMoniker Id="fd0888d9-33c2-4527-bd31-8443f78efa68" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(10.75 : 3.53407348632813); (11.5 : 3.53407348632813)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/NhomNguoiDung/NhomNguoiDung_PhanQuyen" />
+      <nodes>
+        <classShapeMoniker Id="e8933c98-b05d-4fd1-9ce6-d88cc006fcfd" />
+        <classShapeMoniker Id="fd0888d9-33c2-4527-bd31-8443f78efa68" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 9.81266150250401); (6.0625 : 9.25016150250401); (6.0625 : 2.63544840494792); (6.25 : 2.63544840494792)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/PhieuNhapHang/PhieuNhapHang_ChiTietPNH" />
+      <nodes>
+        <classShapeMoniker Id="7a84462f-538a-4952-9af3-0c2df580b8c4" />
+        <classShapeMoniker Id="19b33a4f-68b9-4019-97b8-9a531b4e4d9e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 8.9374995); (4.5 : 8.9374995); (4.5 : 9.75)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/NhaCungCap/NhaCungCap_PhieuNhapHang" />
+      <nodes>
+        <classShapeMoniker Id="48782a3c-9d07-4b0a-b88e-51182014c973" />
+        <classShapeMoniker Id="7a84462f-538a-4952-9af3-0c2df580b8c4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 11.1979484049479); (3.5 : 11.1979484049479)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/NguoiDung/NguoiDung_PhieuNhapHang" />
+      <nodes>
+        <classShapeMoniker Id="d5f75edc-365e-41a5-b747-088eba4b2ce7" />
+        <classShapeMoniker Id="7a84462f-538a-4952-9af3-0c2df580b8c4" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5 : 7.04970540364583); (5 : 8.28124975); (5.97916666666667 : 8.28124975 : JumpStart); (6.14583333333333 : 8.28124975 : JumpEnd); (6.25 : 8.28124975)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/SanPham/SanPham_ChiTietHD" />
+      <nodes>
+        <classShapeMoniker Id="dffec778-019f-4154-8257-716d379f574b" />
+        <classShapeMoniker Id="6719f0d6-9e02-4751-a1cf-dc49e361e9e3" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 5.28407348632813); (5.79166666666667 : 5.28407348632812 : JumpStart); (5.95833333333333 : 5.28407348632813 : JumpEnd); (5.97916666666667 : 5.28407348632812 : JumpStart); (6.14583333333333 : 5.28407348632813 : JumpEnd); (6.25 : 5.28407348632813)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/SanPham/SanPham_ChiTietKM" />
+      <nodes>
+        <classShapeMoniker Id="dffec778-019f-4154-8257-716d379f574b" />
+        <classShapeMoniker Id="c99b38b7-b21d-43e0-b187-5b2313828f5b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(5.5 : 4.18653746153846); (5.6875 : 3.75); (5.6875 : 4.08339680989583); (5.81607443490112 : 3.95482237499471 : JumpStart); (5.93392556509888 : 3.83697124479695 : JumpEnd); (6.00357443490112 : 3.76732237499471 : JumpStart); (6.12142556509888 : 3.64947124479695 : JumpEnd); (6.25 : 3.52089680989583)]" fixedFrom="NotFixed" fixedTo="NotFixed">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/SanPham/SanPham_ChiTietPNH" />
+      <nodes>
+        <classShapeMoniker Id="dffec778-019f-4154-8257-716d379f574b" />
+        <classShapeMoniker Id="19b33a4f-68b9-4019-97b8-9a531b4e4d9e" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 5.59699625651042); (3.5 : 5.59699625651042)]" fixedFrom="Algorithm" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/LoaiSanPham/LoaiSanPham_SanPham" />
+      <nodes>
+        <classShapeMoniker Id="6f540e10-bb97-4343-b121-016ff74fe00c" />
+        <classShapeMoniker Id="dffec778-019f-4154-8257-716d379f574b" />
+      </nodes>
+    </associationConnector>
+    <associationConnector edgePoints="[(2.75 : 3.3862939453125); (3.125 : 3.7612939453125); (3.125 : 4.82974612825521); (3.5 : 4.82974612825521)]" fixedFrom="NotFixed" fixedTo="Algorithm">
+      <AssociationMoniker Name="/HandbagStoreManagementDataContext/ThuongHieu/ThuongHieu_SanPham" />
+      <nodes>
+        <classShapeMoniker Id="df1859f9-f2cc-49f5-adf6-54569f08f505" />
+        <classShapeMoniker Id="dffec778-019f-4154-8257-716d379f574b" />
+      </nodes>
+    </associationConnector>
+  </nestedChildShapes>
+</ordesignerObjectsDiagram>

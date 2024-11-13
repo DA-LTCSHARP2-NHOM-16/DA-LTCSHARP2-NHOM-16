@@ -20,6 +20,7 @@ namespace DA_LTCSHARP2_NHOM_16
     {
         UserBLL userBLL = new UserBLL();
         Image[] statusPassword = new Image[] { Resource.HidePassword, Resource.ShowPassword };
+        frmMain frmMain = new frmMain();
         bool showPassword = false;
         private readonly BunifuSnackbar snackbar = new BunifuSnackbar();
         private BunifuToolTip toolTip = new BunifuToolTip();
@@ -88,28 +89,35 @@ namespace DA_LTCSHARP2_NHOM_16
 
         private void bunifuButton21_Click(object sender, EventArgs e)
         {
-            if (string.IsNullOrWhiteSpace(txtUsername.Text))
-            {
-                errorUsername.Visible = true;
-                txtUsername.BorderColorIdle = Color.IndianRed;
-                return;
-            }
-            if (string.IsNullOrWhiteSpace(txtPassword.Text))
-            {
-                errrorPassword.Visible = true;
-                txtPassword.BorderColorIdle = Color.IndianRed;
-                return;
-            }
+            if (!ValidateInput()) return;
             var user = userBLL.Login(txtUsername.Text, txtPassword.Text);  
             if(user != null)
             {
-                frmMain frmMain = new frmMain();
                 frmMain.user = user;
                 this.Hide();
                 frmMain.Show();
                 return;
             }
             snackbar.Show(this, "Tên đăng nhập hoặc mật khẩu chưa chính xác!", BunifuSnackbar.MessageTypes.Error);
+        }
+
+        private bool ValidateInput()
+        {
+            bool notNull = true;
+            if (string.IsNullOrWhiteSpace(txtUsername.Text))
+            {
+                errorUsername.Visible = true;
+                txtUsername.BorderColorIdle = Color.IndianRed;
+                notNull = false;
+            }
+            if (string.IsNullOrWhiteSpace(txtPassword.Text))
+            {
+                errrorPassword.Visible = true;
+                txtPassword.BorderColorIdle = Color.IndianRed;
+                notNull = false;
+            }
+
+            return notNull;
         }
 
         private void bunifuPictureBox1_MouseHover(object sender, EventArgs e)
